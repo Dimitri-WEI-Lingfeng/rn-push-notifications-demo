@@ -9,7 +9,7 @@
   },
   "private": "true",
   "scripts": {
-    "start:front": "cd packages/expo-app start"
+    "start:front": "yarn workspace expo-app start"
   },
   "license": "MIT",
   "dependencies": {}
